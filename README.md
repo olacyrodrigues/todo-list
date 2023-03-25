@@ -1,7 +1,9 @@
 # Todo List
 
 <p align="center">
-  <img  src="#">
+  <img src="https://user-images.githubusercontent.com/71050110/227678330-4bb66be1-0d9f-4ece-b903-7e0670606723.png">
+  <img src="https://user-images.githubusercontent.com/71050110/227678332-c6ce1bb1-5c47-4466-9571-07396ae87494.png">
+  <img src="https://user-images.githubusercontent.com/71050110/227678333-2d276509-593b-458b-b8ef-0ff17cfcd035.png">
 </p>
 
 <h4>É um pequeno projeto Academico feito em aula no curso Onebitcode, visando práticar os aprendizados com NodeJS + MongoDB até o momento.</h4>
@@ -10,15 +12,24 @@
 
 Status: Finalizado ✅
 
-## 🎲 Rodando o projeto
+## 🎲 Rodando localmente
 
-Para visualizar o projeto basta seguir os passos abaixo.
+Clone o projeto
 
-```python
-$ clone o repositório
-$ abra com seu editor
-$ execute o comando 'npm run dev' no seu terminal
-$ Acesse o link < http://localhost:3000/>
+```bash
+  git clone https://github.com/olacyrodrigues/todo-list
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd todo-list
+```
+
+Inicie o servidor
+
+```bash
+  npm run dev
 ```
 
 ## 🚀 Sobre mim
